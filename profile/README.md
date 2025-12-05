@@ -1,4 +1,4 @@
-# Deposify-A25
+# Deposify-A25-CS059 
 # **Predictive Lead Scoring Portal for Banking Sales**
 
 Selamat datang di repository proyek **Predictive Lead Scoring Portal for Banking Sales**, sebuah solusi end-to-end yang dikembangkan untuk meningkatkan efektivitas proses akuisisi nasabah dalam industri perbankan. Proyek ini merupakan hasil kolaborasi antara tim Machine Learning dan tim REBE (React & Backend), dengan tujuan menyediakan sistem prediksi, pengelolaan leads, serta dashboard performa yang komprehensif bagi Sales dan Admin.
