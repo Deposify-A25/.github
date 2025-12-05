@@ -6,6 +6,7 @@ Selamat datang di repository proyek **Predictive Lead Scoring Portal for Banking
 ---
 
 ## **✨ Overview Proyek**
+![Logo](https://raw.githubusercontent.com/Deposify-A25/.github/refs/heads/main/assets/Phone%20Capture-1.jpeg)
 
 Proyek ini menghadirkan sebuah portal terpadu yang mampu membantu bank dalam menentukan prioritas nasabah (leads) melalui pendekatan *predictive analytics*. Sistem dilengkapi dengan fitur manajemen Sales, manajemen nasabah, serta pemantauan performa berbasis dashboard interaktif.
 
