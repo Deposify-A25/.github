@@ -19,6 +19,21 @@ Masing-masing memiliki fungsionalitas yang dirancang secara spesifik untuk mendu
 
 ---
 
+## **👥 Tim Kami**
+
+Tim kami terdiri dari enam anggota yang berasal dari dua learning path. Divisi Machine Learning bertanggung jawab mengembangkan model prediksi nasabah yang berpotensi membuka rekening deposito, menggunakan algoritma XGBoost yang telah melalui proses hyperparameter tuning. Sementara itu, divisi React Back End bertugas membangun portal dashboard untuk tim sales, yang menyajikan daftar prioritas nasabah secara informatif dan mudah diakses.
+
+| **Nama** | **Cohort ID** | **Path** | **Social Media** |
+| --- | --- | --- | --- |
+| Mohammad Fajar Ma'shum | M891D5Y1140 | Machine Learning, Project Manager | [LinkedIn](https://www.linkedin.com/in/mohammadfajarmashum/) |
+| Amellia Dwi Maharani |  M891D5X0188 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/amelliadwimaharani/) |
+| Arfizan Rabbani |  M007D5Y0263  | Machine Learning | [LinkedIn](https://www.linkedin.com/in/arfizan-rabbani/) |
+| Renaldi Saputra | R891D5Y1679 | React & Back-End with AI | [LinkedIn](https://www.linkedin.com/in/renaldiisptr/) |
+| As Ari Firmansyah | R891D5Y0296 |  React & Back-End with AI | [LinkedIn](https://www.linkedin.com/in/asari-firmansyah-548832319/) |
+| Nabil Amar Abiyyi | R518D5Y1419  |  React & Back-End with AI | [LinkedIn](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304/) |
+
+---
+
 ## **💡 Fitur Utama**
 
 ### **🔹 Fitur untuk Sales**
@@ -98,3 +113,9 @@ Model-model tersebut dipilih karena performanya yang unggul pada data tabular pe
 * Scikit-Learn  
 * XGBoost  
 * Pandas / NumPy
+
+## **💾 Repository**
+
+### **Machine Learning**
+
+- [Model & API](https://drive.google.com/file/d/17RohNZ1soFrFmvUBO5MyLf2hK6xyAWfC/view?usp=sharing) Notebook of our model
