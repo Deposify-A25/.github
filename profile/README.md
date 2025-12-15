@@ -119,3 +119,11 @@ Model-model tersebut dipilih karena performanya yang unggul pada data tabular pe
 ### **Machine Learning**
 
 - [Model & API](https://drive.google.com/file/d/17RohNZ1soFrFmvUBO5MyLf2hK6xyAWfC/view?usp=sharing) Notebook of our model
+
+## **Documentation**
+### **Machine Learing**
+**Link: (https://github.com/Deposify-A25/.github/blob/main/profile/ml-readme.md)**
+### **Backend Developer**
+**Link: (https://github.com/Deposify-A25/.github/blob/main/profile/backend-readme.md)**
+### **Frontend Developer**
+**Link: (https://github.com/Deposify-A25/.github/blob/main/profile/frontend-readme.md)**
