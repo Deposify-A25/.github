@@ -45,9 +45,9 @@ Buat file `.env` pada root folder backend, kemudian isi dengan konfigurasi berik
 `# ML_API_BATCH="http://127.0.0.1:8000/predict/batch"`  
 `# ML_API_SINGLE="http://127.0.0.1:8000/predict"`
 
-`# Gunakan konfigurasi berikut jika model ML sudah di-hosting`  
-`ML_API_BATCH="https://ml-bank-portal.onrender.com/predict/batch"`  
-`ML_API_SINGLE="https://ml-bank-portal.onrender.com/predict"`
+`# Gunakan konfigurasi berikut jika ingin gunakan model ML sudah di-hosting`  
+`ML_API_BATCH="https://ml-bank-portal-9gor.onrender.com/predict/batch"`  
+`ML_API_SINGLE="https://ml-bank-portal-9gor.onrender.com/predict"`
 
 **Catatan penting:**
 
