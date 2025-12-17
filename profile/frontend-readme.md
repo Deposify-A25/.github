@@ -22,7 +22,7 @@ Buat file `.env.local` pada root folder frontend, kemudian isi dengan konfiguras
 
 `NEXT_PUBLIC_API_URL="http://localhost:5000/api/v1"`
 atau bisa menggunakan backend yang sudah di deploy
-`NEXT_PUBLIC_API_URL=https://backend-bank-portal-fork.onrender.com/api/v1`
+`NEXT_PUBLIC_API_URL=https://backend-bank-portal-fork-1m08.onrender.com/api/v1`
 **Penjelasan:**
 
 * `NEXT_PUBLIC_API_URL` merupakan base URL backend yang digunakan untuk seluruh request API dari frontend.  
